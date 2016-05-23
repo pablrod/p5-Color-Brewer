@@ -15,6 +15,12 @@ Provides color schemes for maps designed by Cynthia Brewer. The color schemes ar
 
 Choosing the best color scheme is easy. Just visit Cynthia Brewer's ColorBrewer [http://colorbrewer2.org](http://colorbrewer2.org).
 
+Also adding a citation in your map, chart, ... would be nice. Something like:
+
+    Colors from colorbrewer2.org, by Cynthia A. Brewer, Geography, Pennsylvania State University
+
+This is suggested in [http://www.personal.psu.edu/cab38/ColorBrewer/ColorBrewer\_updates.html](http://www.personal.psu.edu/cab38/ColorBrewer/ColorBrewer_updates.html)
+
 # METHODS
 
 ## named\_color\_scheme
